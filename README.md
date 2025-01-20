@@ -5,7 +5,7 @@ Thank you for your interest!
 
 ## Index
 1. Excel Reports.
-   1.1. Superstore Dashboard: Demonstrates descriptive analysis, pivot tables, and basic dashboard creation.
+    1.1. Superstore Dashboard: Demonstrates descriptive analysis, pivot tables, and basic dashboard creation.
 3. Python Scripts (In Progress)
 4. Power Bi Projects (In Progress)
 5. SQL Projects (In Progress)
