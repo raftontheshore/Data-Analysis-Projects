@@ -1,6 +1,6 @@
 # About This Repo
 
-This repository showcases a small collection of data analysis projects, highlighting my skills in data manipulation, visualization, and insights generation. It’s a work in progress, and I’m continually learning and improving.
+This repository showcases a small collection of data analysis projects, highlighting my skills in data manipulation, visualization, and insights generation. It’s a work in progress as I’m continually learning and improving.
 Thank you for your interest!
 
 ## Index
